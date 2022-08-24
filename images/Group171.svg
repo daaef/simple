@@ -18,22 +18,24 @@
 	.st12{fill-rule:evenodd;clip-rule:evenodd;}
 	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#171D21;}
 	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#F7A7AB;}
-	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#F5A5A9;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#C9A275;}
 	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#231B22;}
-	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#136C48;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#3CCE8F;}
 	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#E7ABA0;}
 	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#0458AF;}
 	.st20{fill-rule:evenodd;clip-rule:evenodd;fill:#0C0005;}
 	.st21{fill-rule:evenodd;clip-rule:evenodd;fill:#243033;}
 	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st23{fill:none;stroke:#C3707A;stroke-width:0.402;stroke-linecap:round;stroke-linejoin:round;}
+	.st23{fill:none;stroke:#1C1213;stroke-width:0.402;stroke-linecap:round;stroke-linejoin:round;}
 	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:#171223;}
 	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:#A7614E;}
 	.st26{fill:none;stroke:#8C453A;stroke-width:0.399;stroke-linecap:round;stroke-linejoin:round;}
 	.st27{fill-rule:evenodd;clip-rule:evenodd;fill:#111012;}
-	.st28{fill-rule:evenodd;clip-rule:evenodd;fill:#0A0A0A;}
-	.st29{fill-rule:evenodd;clip-rule:evenodd;fill:#136C48;stroke:#136C48;stroke-miterlimit:10;}
-	.st30{fill:none;stroke:#C3707A;stroke-width:0.394;stroke-linecap:round;stroke-linejoin:round;}
+	.st28{fill-rule:evenodd;clip-rule:evenodd;fill:#A58250;}
+	.st29{fill-rule:evenodd;clip-rule:evenodd;fill:#0A0A0A;}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#3CCE8F;stroke:#3CCE8F;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#191818;stroke-width:0.394;stroke-linecap:round;stroke-linejoin:round;}
+	.st32{fill:none;stroke:#D3C2C5;stroke-width:0.394;stroke-linecap:round;stroke-linejoin:round;}
 </style>
 <desc>Created with Sketch.</desc>
 <g id="Marshmello_landing-page">
@@ -129,9 +131,9 @@
 				C405.5,162.2,405.2,160.9,406.2,159.1"/>
 			<polygon id="Fill-75" class="st19" points="403.6,205 419.7,199.1 421.5,182 422.6,201.8 			"/>
 			<path id="Fill-76" class="st19" d="M432.6,214c-0.1,0-0.8,4.9-0.8,4.9s-35.1,2.7-40.2-0.3L432.6,214z"/>
-			<path id="Fill-77" class="st18" d="M389.6,215.3c0.2,3.7-2.1,4.4-5.7,4.7s-7-0.1-7.2-3.8s2.5-6.9,6-7.2
+			<path id="Fill-77" class="st15" d="M389.6,215.3c0.2,3.7-2.1,4.4-5.7,4.7s-7-0.1-7.2-3.8s2.5-6.9,6-7.2
 				C386.2,208.8,389.3,211.6,389.6,215.3"/>
-			<path id="Fill-78" class="st18" d="M394.4,218.5l-7.2,0.5c-1.9,0.1-3.5-1.2-3.6-3s1.3-3.4,3.2-3.5l7.2-0.5c1.9-0.1,3.5,1.2,3.6,3
+			<path id="Fill-78" class="st15" d="M394.4,218.5l-7.2,0.5c-1.9,0.1-3.5-1.2-3.6-3s1.3-3.4,3.2-3.5l7.2-0.5c1.9-0.1,3.5,1.2,3.6,3
 				S396.3,218.4,394.4,218.5"/>
 			<path id="Fill-79" class="st2" d="M394,220l-3.4-14l33-5.4l-1.6-27.7c-1.3-6.1,4.4-11.5,8.8-10.8c4.2-0.1,7.7,3.2,8.5,9.4
 				l2.3,37.8c-0.3,2.4-2,4.3-4.3,5.1L394,220z"/>
@@ -219,7 +221,7 @@
 				l-1.9-9.7C272.7,110.6,264.4,104.8,252.9,105"/>
 			<path id="Fill-131" class="st25" d="M242.6,108.3c0,0,10.4-4.8,24-0.5l-4.6,2.4C256.1,113.3,247.9,112.1,242.6,108.3"/>
 			<path id="Fill-132" class="st17" d="M269.6,128.5l-0.8,0.8c0,0-3.2-2.5-5.2-6.3l3.7,19L269.6,128.5z"/>
-			<path id="Fill-133" class="st15" d="M100.8,177c0,0,6.1,8.1,2.9,17.8c-3.2,9.8-12.1-0.7-12.1-0.7L100.8,177z"/>
+			<path id="Fill-133" class="st28" d="M100.8,177c0,0,6.1,8.1,2.9,17.8c-3.2,9.8-12.1-0.7-12.1-0.7L100.8,177z"/>
 			<path id="Fill-134" class="st17" d="M103.3,106c0,0-0.7-3.1-7.7-6l4.9,37.8l0.5-2.3L97.2,183l10.9-0.6
 				C110.5,125.1,103.3,106,103.3,106"/>
 			<path id="Fill-135" class="st17" d="M81.7,95c0,0-11.7,0.5-20.3,5.8L59.6,164h41v-55.8c0-3.4-0.9-6.3-2.1-6.9
@@ -229,40 +231,40 @@
 				/>
 			<path id="Fill-138" class="st17" d="M74.6,110.9c0,0-10.8,14.9-22.2,32.2c-1.3,1.9-4.4,3-6.6,2.9c-5.1-0.1-7.4-5.8-5.5-10.5
 				c0,0,13.1-28.7,21.3-35.5C61.8,99.8,74.6,110.9,74.6,110.9"/>
-			<path id="Fill-139" class="st28" d="M86.3,130.9L76.1,144c-1,1.3-0.3,3.2,1.3,3.5l8.2,1.6c0.8,0.2,1.7-0.2,2.2-0.8l10.3-13.1
+			<path id="Fill-139" class="st29" d="M86.3,130.9L76.1,144c-1,1.3-0.3,3.2,1.3,3.5l8.2,1.6c0.8,0.2,1.7-0.2,2.2-0.8l10.3-13.1
 				c1-1.3,0.3-3.2-1.3-3.5l-8.3-1.6C87.6,129.9,86.8,130.2,86.3,130.9"/>
-			<polygon id="Fill-140" class="st15" points="73.6,143 60.3,143.2 57.6,149 72.6,148.3 			"/>
-			<path id="Fill-141" class="st15" d="M72.6,142.8l8.2-5.6c0.4-0.3,1-0.3,1.4,0.1c0.4,0.4,0.5,1,0.1,1.4l-1.8,2.1l6.2,0.6
+			<polygon id="Fill-140" class="st28" points="73.6,143 60.3,143.2 57.6,149 72.6,148.3 			"/>
+			<path id="Fill-141" class="st28" d="M72.6,142.8l8.2-5.6c0.4-0.3,1-0.3,1.4,0.1c0.4,0.4,0.5,1,0.1,1.4l-1.8,2.1l6.2,0.6
 				c0.8,0.1,1.3,0.9,0.9,1.6l-0.9,1.8c-0.8,1.6-2.4,2.8-4.2,3.2c-3.2,0.7-7.9,1.5-10.7-0.2L72.6,142.8z"/>
-			<path id="Fill-142" class="st29" d="M40.3,134c0,0-5,8.1-1.5,12.7c3.5,4.6,18.5,7.2,31.3,6l0.5-12.3l-14.9-2.9L40.3,134z"/>
-			<path id="Fill-143" class="st15" d="M76,75l-1.4,19.8c-0.2,3.5,2.4,6.6,6.1,7.1c4,0.5,7.6-2.2,8-6l1.8-16.6L76,75z"/>
+			<path id="Fill-142" class="st30" d="M40.3,134c0,0-5,8.1-1.5,12.7c3.5,4.6,18.5,7.2,31.3,6l0.5-12.3l-14.9-2.9L40.3,134z"/>
+			<path id="Fill-143" class="st28" d="M76,75l-1.4,19.8c-0.2,3.5,2.4,6.6,6.1,7.1c4,0.5,7.6-2.2,8-6l1.8-16.6L76,75z"/>
 			<path id="Fill-144" class="st16" d="M76.9,82c0,0-3.2,14,11,14l0.7-7.4L76.9,82z"/>
 			<path id="Fill-145" class="st16" d="M81.6,59c0,0-8.2,1.3-8,7.1S74.5,78,74.5,78l4.5-9.4L81.6,59z"/>
 			<path id="Fill-146" class="st16" d="M97.6,65c0,0,6,9-2.6,13l-1.4-0.8c0,0-2.6-7,0.8-10.7L97.6,65z"/>
-			<path id="Fill-147" class="st15" d="M86,93h-0.4c-6.4-0.3-11.2-5.7-10.9-12.1l0.7-13c0.1-1.6,1.5-2.9,3.1-2.8l15.1,0.8
+			<path id="Fill-147" class="st28" d="M86,93h-0.4c-6.4-0.3-11.2-5.7-10.9-12.1l0.7-13c0.1-1.6,1.5-2.9,3.1-2.8l15.1,0.8
 				c2.9,0.1,5.2,2.7,5,5.6L98.1,82C97.7,88.4,92.3,93.3,86,93"/>
 			<path id="Fill-148" class="st13" d="M87.5,78.1c-0.1,0.5-0.5,0.9-1.1,0.8s-0.9-0.5-0.8-1.1c0.1-0.5,0.5-0.9,1.1-0.8
 				C87.2,77.1,87.6,77.6,87.5,78.1"/>
 			<path id="Fill-149" class="st13" d="M94.5,79.1c-0.1,0.5-0.5,0.9-1.1,0.8c-0.5-0.1-0.9-0.5-0.8-1.1c0.1-0.5,0.5-0.9,1.1-0.8
 				C94.2,78.1,94.6,78.6,94.5,79.1"/>
-			<path id="Stroke-150" class="st30" d="M91.5,80l0.1,3c0,0-0.2,1.6-2,0.8"/>
+			<path id="Stroke-150" class="st31" d="M91.5,80l0.1,3c0,0-0.2,1.6-2,0.8"/>
 			<path id="Fill-151" class="st13" d="M83.3,74.8c0.1,0,0.1,0,0.2,0l4.3,0.1c0.5,0,0.9-0.4,0.9-0.9s-0.4-0.9-0.9-0.9L83.5,73
 				c-0.5,0-0.9,0.4-0.9,0.9S82.9,74.7,83.3,74.8"/>
 			<path id="Fill-152" class="st13" d="M93.2,76.8c0.1,0,0.1,0,0.2,0h2.4c0.4,0,0.8-0.4,0.8-0.9S96.3,75,95.8,75h-2.4
-				c-0.4,0-0.8,0.4-0.8,0.9C92.6,76.4,92.9,76.7,93.2,76.8"/>
-			<path id="Stroke-153" class="st30" d="M84.6,84.1c0,0,3.3,3.5,8,0.6"/>
+				c-0.4,0-0.8,0.4-0.8,0.9S92.9,76.7,93.2,76.8"/>
+			<path id="Stroke-153" class="st32" d="M84.6,84.1c0,0,3.3,3.5,8,0.6"/>
 			<path id="Fill-154" class="st16" d="M75.6,79c0,0,6.4-3.4,6-15.1L75.8,63l-0.1,1.7L75.6,79z"/>
-			<path id="Fill-155" class="st15" d="M77.6,78.7c-0.1,1.9-1.7,3.4-3.7,3.3c-1.9-0.1-3.4-1.7-3.3-3.7c0.1-1.9,1.7-3.4,3.7-3.3
+			<path id="Fill-155" class="st28" d="M77.6,78.7c-0.1,1.9-1.7,3.4-3.7,3.3c-1.9-0.1-3.4-1.7-3.3-3.7c0.1-1.9,1.7-3.4,3.7-3.3
 				C76.2,75.1,77.7,76.7,77.6,78.7"/>
 			<path id="Fill-156" class="st16" d="M78.4,69.6l4.4-2.1c0,0,10.1,5,14.6,1c4.8-4.4,4.6-13.7-4.3-15.2c-7.7-1.3-14,3.6-15.1,8
 				S78.4,69.6,78.4,69.6"/>
 			<polygon id="Fill-157" class="st2" points="59.6,164 59.7,177 100.6,177 100.6,164 			"/>
-			<polygon id="Fill-158" class="st15" points="65.6,290 76.6,290 76.6,274 65.6,274 			"/>
+			<polygon id="Fill-158" class="st28" points="65.6,290 76.6,290 76.6,274 65.6,274 			"/>
 			<path id="Fill-159" class="st16" d="M76.6,288H62.1l-10.6,4.9c-2.4,1.2-3.9,3.6-3.9,6.1h29V288z"/>
 			<path id="Fill-160" class="st16" d="M62.6,288.8l2.9-4.7c0,0,4.5-1,4.1,4.9L62.6,288.8z"/>
 			<polygon id="Fill-161" class="st2" points="82.6,170 78.2,277 61.2,277 59.6,170 			"/>
 			<polygon id="Fill-162" class="st19" points="58.6,271 77.6,271 77.3,277 58.6,277 			"/>
-			<polygon id="Fill-163" class="st15" points="86.6,290 97.6,290 97.6,274 86.6,274 			"/>
+			<polygon id="Fill-163" class="st28" points="86.6,290 97.6,290 97.6,274 86.6,274 			"/>
 			<path id="Fill-164" class="st16" d="M86.6,288h14.5l10.6,4.9c2.4,1.2,3.9,3.6,3.9,6.1h-29V288z"/>
 			<path id="Fill-165" class="st16" d="M100.6,288.8l-2.9-4.7c0,0-4.5-1-4.1,4.9L100.6,288.8z"/>
 			<polygon id="Fill-166" class="st2" points="99.6,171 98.7,277 81.7,277 80.6,172.7 			"/>

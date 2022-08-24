@@ -9717,12 +9717,27 @@ body.sidebar-open:before {
 }
 
 .contact-us .contact-us-bgimage {
-    background-image: url(../images/gdpr.jpg);
-    background-position: 50%;
+    background-image: url(../images/governor.jpg);
+    background-position: 40% 80%;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    padding: 83px 0 68px
+    padding: 83px 0 68px;
+    position: relative;
+}
+
+.contact-us .contact-us-bgimage > * {
+    position: relative;
+    z-index: 2;
+}
+.contact-us .contact-us-bgimage:after {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 191, 128, 0.33);
+    left: 0;
+    top: 0;
 }
 
 .contact-details .mdi {
@@ -9758,7 +9773,7 @@ footer a:hover {
 }
 
 .header-small .navbar {
-    background: #fff;
+    background: #1f7a45;
     padding: 18px 0;
     box-shadow: 0 0 30px 0 rgba(0, 0, 0, .2)
 }
@@ -9860,16 +9875,16 @@ footer a:hover {
     font-size: .9375rem;
     padding: 0 17px;
     font-weight: 500;
-    color: #111
+    color: hsla(0, 0%, 100%, .5)
 }
 
 .navbar .navbar-menu-wrapper .navbar-nav .nav-link:hover {
-    color: #136c48;
+    color: #fafafa;
     transition: all .3s ease
 }
 
 .navbar .navbar-menu-wrapper .navbar-nav .nav-link.active {
-    color: #136c48
+    color: #fafafa
 }
 
 .navbar .navbar-collapse-logo {
@@ -9957,7 +9972,7 @@ footer a:hover {
 }
 
 .btn.btn-white:hover {
-    background: red;
+    background: #1f7a45;
     color: #fff
 }
 
@@ -10218,15 +10233,15 @@ footer a:hover {
 }
 
 .btn-outline-danger {
-    color: #136c48;
+    color: #1f7a45;
     background-color: #fff;
-    border: 2px solid #136c48;
+    border: 2px solid #1f7a45;
     transition: all .5s ease-in-out
 }
 
 .btn-outline-danger:hover {
     color: #fff;
-    background-color: #136c48
+    background-color: #1f7a45
 }
 
 .btn-outline-light {
@@ -10317,4 +10332,12 @@ footer a:hover {
 
 .navbar-brand-wrapper img, .navbar-collapse-logo img, .contact-details img {
     height: 40px;
+}
+
+header {
+    background: #1f7a45;
+}
+
+header .banner, header .navbar {
+    background: transparent;
 }
