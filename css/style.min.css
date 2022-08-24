@@ -2601,7 +2601,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-outline-danger, .btn-outline-danger:hover {
-    border-color: red
+    border-color: #1f7a45
 }
 
 .btn-outline-danger.focus, .btn-outline-danger:focus {
