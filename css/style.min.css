@@ -9853,7 +9853,8 @@ footer a:hover {
 }
 
 .navbar .navbar-toggler .mdi-menu {
-    font-size: 30px
+    font-size: 30px;
+    color: #fafafa;
 }
 
 .navbar .navbar-toggler .mdi-close {
