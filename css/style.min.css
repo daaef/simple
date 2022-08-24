@@ -9591,7 +9591,8 @@ body.sidebar-open:before {
 }
 
 .content-wrapper {
-    padding: 27px 0
+    padding: 27px 0;
+    padding-bottom: 0;
 }
 
 .features-overview .content-header {
@@ -9760,8 +9761,17 @@ body.sidebar-open:before {
     transition: all .6s ease-in-out
 }
 
+.contact-details{
+    padding: 50px 0;
+    background: #126c48;
+}
+
 .contact-details a:hover, footer a {
     color: red
+}
+footer {
+    background: #126c48;
+    color: #fafafa;
 }
 
 footer a:hover {
