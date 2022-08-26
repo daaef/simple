@@ -10395,6 +10395,10 @@ header .banner, header .navbar {
     .right--image {
         padding: 0;
     }
+
+    .right--image h1 {
+        text-align: center !important;
+    }
     .left-jobs {
         display: none;
     }
