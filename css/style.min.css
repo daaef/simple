@@ -10389,8 +10389,16 @@ header .banner, header .navbar {
     .left-jobs, .right--image {
         width: 100%;
     }
+
+    .navbar .navbar-brand-wrapper {
+        justify-content: center;
+    }
 }
 
 header {
     min-height: calc(100vh - 63px);
+}
+
+.navbar {
+    height: 100px;
 }
