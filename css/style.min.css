@@ -10387,6 +10387,9 @@ header .banner, header .navbar {
 }
 
 @media (max-width: 800px) {
+    .navbar-brand-wrapper img, .navbar-collapse-logo img, .contact-details img {
+        height: 90px;
+    }
     .page--header {
         align-items: center;
         margin: 0;
