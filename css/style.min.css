@@ -9855,7 +9855,7 @@ footer a:hover {
 
 .navbar {
     background-color: #f7f8fa;
-    padding: 49px 0 63px
+    line-height: 80px;
 }
 
 .navbar .navbar-toggler {
@@ -10342,7 +10342,7 @@ footer a:hover {
 }
 
 .navbar-brand-wrapper img, .navbar-collapse-logo img, .contact-details img {
-    height: 40px;
+    height: 60px;
 }
 
 header {
@@ -10351,4 +10351,35 @@ header {
 
 header .banner, header .navbar {
     background: transparent;
+}
+
+.page--header {
+    display: flex;
+    flex-wrap: wrap;
+    height: calc(100vh - 260px);
+    align-items: flex-start;
+    margin-top: 100px;
+}
+
+.left-jobs, .right--image {
+    width: 50%;
+}
+
+.left-jobs {
+    text-align: left;
+    padding: 20px;
+}
+
+.jobs--grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.stretch-card img {
+    height: 100px;
+}
+
+.right--image {
+    padding: 40px;
 }
