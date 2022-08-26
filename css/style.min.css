@@ -10371,9 +10371,12 @@ header .banner, header .navbar {
 }
 
 .jobs--grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.stretch-card {
+    width: calc(50% - 10px);
 }
 
 .stretch-card img {
