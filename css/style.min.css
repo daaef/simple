@@ -10356,7 +10356,7 @@ header .banner, header .navbar {
 .page--header {
     display: flex;
     flex-wrap: wrap;
-    height: calc(100vh - 260px);
+    min-heightheight: calc(100vh - 260px);
     align-items: flex-start;
     margin-top: 100px;
 }
@@ -10382,4 +10382,15 @@ header .banner, header .navbar {
 
 .right--image {
     padding: 40px;
+}
+
+@media (max-width: 1200px) {
+
+    .left-jobs, .right--image {
+        width: 100%;
+    }
+}
+
+header {
+    min-height: calc(100vh - 63px);
 }
