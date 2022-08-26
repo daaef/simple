@@ -10356,7 +10356,7 @@ header .banner, header .navbar {
 .page--header {
     display: flex;
     flex-wrap: wrap;
-    min-heightheight: calc(100vh - 260px);
+    min-height: calc(100vh - 260px);
     align-items: flex-start;
     margin-top: 100px;
 }
@@ -10378,12 +10378,28 @@ header .banner, header .navbar {
 
 .stretch-card img {
     height: 100px;
+    width: 100%;
+    object-fit: cover;
 }
 
 .right--image {
     padding: 40px;
 }
 
+@media (max-width: 800px) {
+    .page--header {
+        align-items: center;
+        margin: 0;
+    }
+
+    .right--image {
+        padding: 0;
+    }
+    .left-jobs {
+        display: none;
+    }
+
+}
 @media (max-width: 1200px) {
 
     .left-jobs, .right--image {
